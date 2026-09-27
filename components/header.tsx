@@ -18,6 +18,7 @@ export default function Header({ isDark, toggleDarkMode }: HeaderProps) {
     { href: "#certifications", label: "Certifications" },
     { href: "#process", label: "Process" },
     { href: "#experience", label: "Experience" },
+    { href: "#projects", label: "Projects" },
     { href: "#contact", label: "Contact" },
   ]
 

@@ -8,6 +8,7 @@ import Skills from "@/components/skills"
 import Certifications from "@/components/certifications"
 import WorkProcess from "@/components/work-process"
 import Experience from "@/components/experience"
+import Projects from "@/components/projects"
 import Contact from "@/components/contact"
 import Footer from "@/components/footer"
 
@@ -43,6 +44,7 @@ export default function Home() {
         <Certifications />
         <WorkProcess />
         <Experience />
+        <Projects />
         <Contact />
       </main>
       <Footer />
